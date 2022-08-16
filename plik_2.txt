@@ -1,1 +1,3 @@
 To jest pierwsza linia w pliku 2
+
+Pierwsza niechciana zmiana
