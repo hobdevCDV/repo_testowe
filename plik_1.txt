@@ -1,5 +1,2 @@
 To jest pierwsza linia w pliku 1.
 Ale ta linia jest druga
-
-Testy testy
-gkgkkgkg
